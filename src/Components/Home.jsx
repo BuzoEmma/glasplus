@@ -19,7 +19,7 @@ const Home = () => {
         <img src={img} alt="" className="w-[85%]" />
         <div className=" xs:pt-6 mt-[2rem] xs:px-2 ">
           <p className="py-[1rem] text-3xl  font-bold tracking-wide ">
-            <span className="">Glass</span>
+            <span className="">Glas</span>
             <span className=" text-amber-700 ">Plus</span>
           </p>
           <p className=" italic text-gray-600 text-lg">
@@ -128,7 +128,7 @@ const Home = () => {
           <div className="grid grid-cols-2 xs:grid-cols-1 w-full justify-center -px-1">
             <div className="mr-4 ">
               <iframe
-                className="xs:w-[430px] w-[700px] h-[300px]"
+                className="xs:w-[400px] w-[700px] h-[300px]"
                 src="https://www.youtube-nocookie.com/embed/MZGDVeDWoT0"
                 title="YouTube video player"
                 frameborder="0"
